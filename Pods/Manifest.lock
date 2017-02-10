@@ -14,13 +14,16 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - SVPullToRefresh (0.4.1)
 
 DEPENDENCIES:
   - AFNetworking
+  - SVPullToRefresh
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
 
-PODFILE CHECKSUM: 94c5776d427820de9210025dc6376a25d0c14138
+PODFILE CHECKSUM: b302902159f665affc2d0f44a5431376699cda9b
 
 COCOAPODS: 1.1.1

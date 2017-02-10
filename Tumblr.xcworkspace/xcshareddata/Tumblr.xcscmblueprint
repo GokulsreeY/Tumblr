@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0AE765C73F429122EC7023AE5ADC18D546A12D13",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C67353B408A3F25565A65D754E612015C8B35518" : 9223372036854775807,
+    "0AE765C73F429122EC7023AE5ADC18D546A12D13" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "089F0C88-B7FB-4F02-A456-57672F2C4072",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C67353B408A3F25565A65D754E612015C8B35518" : "Tumblr\/Tumblr\/",
+    "0AE765C73F429122EC7023AE5ADC18D546A12D13" : "Tumblr\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tumblr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tumblr.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GokulsreeY\/Tumblr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0AE765C73F429122EC7023AE5ADC18D546A12D13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GokulsreeY\/Tumblr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C67353B408A3F25565A65D754E612015C8B35518"
+    }
+  ]
+}
